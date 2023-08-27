@@ -1,5 +1,5 @@
 # Kaggle-Cirrhosis-stage-prediction
-This is a Kaggle competition I participated previously. It’s a classification problem about Cirrhosis stage prediction. Ranked 11th among 132 teams on the leaderboard. 
+This is a Kaggle Data Science competition I participated previously. It’s a classification problem about Cirrhosis stage prediction. Ranked 11th among 132 teams on the leaderboard. 
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
